@@ -3,16 +3,29 @@
 h1{
     text-align: center;
     text-transform: capitalize;
+    color: navy;
+}
+h2{
+    text-align: left;
+    color: blue;
 }
 p{
     text-align: justify;
     font-style: italic;
-    color: green;
+    color: black;
     text-size-adjust: 12px;
 }
 body{
-    background-image: linear-gradient(90deg, red, yellow);
+    background-image: linear-gradient(90deg, blue, lightskyblue);
+    font-family: sans-serif;
 }
-canvas{
-    background-color: aqua ;
+#canv{
+    background-color: #fff;
+    text-align: center;
+    width: 600px;
+    height: auto;
+    margin: auto;
+    border-radius: 15px;
+    padding: 40px;
+    box-shadow: 10px 10px 300px black;
 }
