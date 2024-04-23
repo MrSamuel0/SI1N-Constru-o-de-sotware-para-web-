@@ -8,3 +8,9 @@ li{
     text-align: center;
     text-transform: uppercase;
 }
+p{
+    text-align: center;
+}
+body{
+    background-image: radial-gradient(circle, navy, blue);
+}
