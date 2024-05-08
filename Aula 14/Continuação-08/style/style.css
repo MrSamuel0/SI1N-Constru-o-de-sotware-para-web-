@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+#divsimples{
+    background-color: navy;
+    margin-bottom: 5px;
+    text-align: center;
+    color: white;
+}
+
+.divtratada{
+    display: inline-block;
+    background-color: navy;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    color: white;
+    
+}
+.divtratada:hover{
+    background-color: whitesmoke;
+    color: black;
+}
+#div{
+    background-color: navy;
+    margin-top: 5px;
+    text-align: center;
+    color: white;
+}
+
+
+
