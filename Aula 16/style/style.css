@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+#artigo{
+    display: flex;
+    background-color: blueviolet;
+
+    height: 200px;
+    border-radius: 20px;
+    padding: 2%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    /*align-items: baseline;*/
+    align-content: center;
+}
+.item{
+    background-color: royalblue;
+    text-align: center;
+    border: 2px;
+    border-style: solid;
+    size-adjust: auto;
+    padding: 1%;
+}
+.container-1{
+    flex-grow: 3;
+}
+.container-5{
+    flex-shrink: -5;
+}
