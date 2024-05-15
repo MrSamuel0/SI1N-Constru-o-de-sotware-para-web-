@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.chkbx {
+    display: block;
+    flex-direction: row;
+}
+#formulario {
+    display: flex;
+    height: auto;
+    border-radius: 20px;
+    padding: 2%;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 1000px;
+    align-content: stretch;
+}
+#form {
+    display: flex;
+    background-color: royalblue;
+    height: auto;
+    width: 1000px;
+    border-radius: 20px;
+    padding: 2%;
+    flex-direction: column;
+    
+}
+
+
