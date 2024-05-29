@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+#div {
+    background-image: linear-gradient(to bottom, #0A769B, #49CADA);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    width: 40%;
+    height: 400px;
+    flex-direction: column;
+    
+}
