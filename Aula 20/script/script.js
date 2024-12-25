@@ -12,6 +12,6 @@ function login() {
         let a = window.open("paginicial.html");
     }
     else {
-        window.alert("imposter!");
+        window.alert("Senha incorreta, acesso negado!");
     }
 }
